@@ -1,0 +1,62 @@
+.carousel-indicators button {
+    background-color: #27b55f; 
+    border: 5px solid #020202;
+}
+
+.carousel-indicators .active {
+    background-color: #e01212; 
+}
+.carousel-item img {
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+}
+
+.carousel-item img:hover {
+    transform: scale(1.05);
+}
+
+.border {
+    border-radius: 8px;
+    border-color: #ccc;
+    background-color: rgb(255, 255, 255); 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-dark {
+    background-color: #2c3e50; 
+}
+.btn-primary {
+    background-color: #2980b9; 
+    border-color: #2980b9;
+}
+.btn-secondary {
+    background-color: #8e44ad; 
+    border-color: #8e44ad;
+}
+
+#contact {
+    background-color: #f1f1f1;
+    padding: 40px;
+    border-radius: 8px;
+}
+
+section {
+    background-color: #d3d0d0; 
+    padding: 40px 20px;
+    border-radius: 8px;
+}
+
+h1, h2, h3 {
+    color: #212121; 
+}
+
+p {
+    color: #424242; 
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+img {
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+}
